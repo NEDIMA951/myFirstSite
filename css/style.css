@@ -112,7 +112,7 @@ body {
 }
 /*---SLIDER---*/
 .slider {
-  background-image: url(/img/slider-fon.jpg);
+  background-image: url(../img/slider-fon.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -293,7 +293,7 @@ body {
 }
 /*---ABOUT---*/
 .about {
-  background-image: url(/img/about-fon.jpg);
+  background-image: url(../img/about-fon.jpg);
   background-size: cover;
   background-position: center;
   min-height: 300px;
@@ -326,7 +326,7 @@ body {
 }
 .form__inner {
   padding-bottom: 42px;
-  background-image: url(/img/form-fon.png);
+  background-image: url(../img/form-fon.png);
   min-height: 460px;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -470,7 +470,7 @@ body {
 }
 /*---ADVANTAGES---*/
 .advantages {
-  background-image: url(/img/advantages-fon.jpg);
+  background-image: url(../img/advantages-fon.jpg);
   background-size: cover;
   background-position: center;
   min-height: 286px;
